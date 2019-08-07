@@ -1,0 +1,6 @@
+<interface name="com.deepin.Ch05">
+    <method name="Hello">
+        <arg direction="out" type="s"/>
+    </method>
+    <signal name="Tick">
+</interface>
