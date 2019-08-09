@@ -2,5 +2,5 @@
     <method name="Hello">
         <arg direction="out" type="s"/>
     </method>
-    <signal name="Tick">
+    <signal name="Tick" />
 </interface>
